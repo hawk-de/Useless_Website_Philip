@@ -1,0 +1,54 @@
+body {
+  background-color: #fbcfe8;
+  margin: 0;
+  height: 80%;
+}
+html {
+  height: 80%;
+  width: 100%;
+}
+.butt {
+  background-color: aquamarine;
+  font-size: xx-large;
+  font-style: normal;
+  border-radius: 8px;
+  font-family: monospace;
+  padding: 10px 20px;
+  box-shadow: 0 8px 16px #c95daf;
+}
+
+header {
+  text-align: right;
+  background-color: #7fffd4;
+  border: none;
+}
+#someDiv {
+  font-size: xx-large;
+  font-family: monospace;
+  padding: 10px;
+  color: rgb(0, 0, 0);
+}
+
+main {
+  height: max-content;
+  font-family: monospace;
+  font-size: xx-large;
+  object-position: 50% 50%;
+  border: none;
+  padding: 10px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+
+footer {
+  text-align: right;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
